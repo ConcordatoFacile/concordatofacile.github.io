@@ -1,17 +1,17 @@
 # ConcordatoFacile Redirect
 
-This repository contains a simple HTML redirect to the ConcordatoFacile website.
+This repository provides a simple HTML-based solution to redirect users to the ConcordatoFacile website.
 
 ## Purpose
 
-The purpose of this repository is to utilize the GitHub Pages feature to redirect visitors from `concordatofacile.github.io` to the main ConcordatoFacile website hosted on Carrd.co.
+The goal of this repository is to take advantage of GitHub Pages to seamlessly direct visitors from the `concordatofacile.github.io` page to the main ConcordatoFacile site hosted on another platform.
 
-## How it works
+## How it Works
 
-The `index.html` file in this repository contains a meta refresh tag that automatically redirects visitors to `https://concordatofacile.carrd.co`.
+The `index.html` file uses a meta refresh tag to automatically redirect users to the correct website.
 
 ## Note
 
-This is a client-side redirect. The URL in the visitor's browser will change to `https://concordatofacile.carrd.co` after the redirect occurs.
+This redirection happens on the client side, meaning the browser's address bar will update to reflect the new URL after the redirect.
 
-For any questions about ConcordatoFacile, please visit the main website at `https://concordatofacile.carrd.co`.
+For more information, please visit the main ConcordatoFacile website.
